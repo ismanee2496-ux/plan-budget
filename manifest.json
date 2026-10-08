@@ -1,7 +1,9 @@
 {
   "name": "ระบบการจัดการแผนปีงบประมาณ",
   "short_name": "แผนปีงบประมาณ",
+  "description": "ระบบบริหารจัดการแผนงาน โครงการ และงบประมาณ",
   "start_url": "/plan-budget/",
+  "scope": "/plan-budget/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
