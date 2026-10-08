@@ -1,0 +1,20 @@
+{
+  "name": "ระบบการจัดการแผนปีงบประมาณ",
+  "short_name": "แผนปีงบประมาณ",
+  "start_url": "/plan-budget/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://img2.pic.in.th/pic/-._0a07384e55bcb2336.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img2.pic.in.th/pic/-._0a07384e55bcb2336.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
